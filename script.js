@@ -43,3 +43,4 @@ getWeatherButton.onclick = () => {
 };
 const arr = [1, 2, 3];//Кортеж (масив з вже відомою довжиною та елементами)
 const [_, second, third] = arr;
+//test
